@@ -3,8 +3,11 @@
 ## Installation
 ### For windows users
 (run those in command prompt/cmt/terminal)
-For the robot to listen to our voice/speech
-`pip install speechRecognition`
+
+-For the robot to listen to our voice/speech
+```bash
+pip install speechRecognition
+```
 
 -To speak out, or text to speech
 ```bash
@@ -17,12 +20,12 @@ pip install pyttsx3
 pip install pywhatkit
 ```
 
-To get wikipedia data
+-To get wikipedia data
 ```bash
 pip install wikipedia
 ```
 
-To get funny jokes
+-To get funny jokes
 ```ash
 pip install pyjokes
 ```
